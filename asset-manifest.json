@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/staging-censio/static/css/main.ad5bd9b9.chunk.css",
+    "main.js": "/staging-censio/static/js/main.e0978fa0.chunk.js",
+    "main.js.map": "/staging-censio/static/js/main.e0978fa0.chunk.js.map",
+    "runtime-main.js": "/staging-censio/static/js/runtime-main.54096f03.js",
+    "runtime-main.js.map": "/staging-censio/static/js/runtime-main.54096f03.js.map",
+    "static/css/2.3dcccd17.chunk.css": "/staging-censio/static/css/2.3dcccd17.chunk.css",
+    "static/js/2.f08658b2.chunk.js": "/staging-censio/static/js/2.f08658b2.chunk.js",
+    "static/js/2.f08658b2.chunk.js.map": "/staging-censio/static/js/2.f08658b2.chunk.js.map",
+    "index.html": "/staging-censio/index.html",
+    "precache-manifest.67967d090eb77df0944cc0da293562e0.js": "/staging-censio/precache-manifest.67967d090eb77df0944cc0da293562e0.js",
+    "service-worker.js": "/staging-censio/service-worker.js",
+    "static/css/2.3dcccd17.chunk.css.map": "/staging-censio/static/css/2.3dcccd17.chunk.css.map",
+    "static/css/main.ad5bd9b9.chunk.css.map": "/staging-censio/static/css/main.ad5bd9b9.chunk.css.map",
+    "static/js/2.f08658b2.chunk.js.LICENSE.txt": "/staging-censio/static/js/2.f08658b2.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-5-logo.svg": "/staging-censio/static/media/bootstrap-5-logo.6aae84ab.svg",
+    "static/media/all.css": "/staging-censio/static/media/fa-solid-900.9ae050d1.woff2",
+    "static/media/profile-picture-1.jpg": "/staging-censio/static/media/profile-picture-1.4d26e151.jpg",
+    "static/media/profile-picture-2.jpg": "/staging-censio/static/media/profile-picture-2.487133c5.jpg",
+    "static/media/profile-picture-3.jpg": "/staging-censio/static/media/profile-picture-3.9a250e5c.jpg",
+    "static/media/profile-picture-4.jpg": "/staging-censio/static/media/profile-picture-4.ccd796b3.jpg",
+    "static/media/profile-picture-5.jpg": "/staging-censio/static/media/profile-picture-5.baf7bf75.jpg",
+    "static/media/react-hero-logo.svg": "/staging-censio/static/media/react-hero-logo.9394d800.svg",
+    "static/media/react-logo-transparent.svg": "/staging-censio/static/media/react-logo-transparent.f7d45c01.svg",
+    "static/media/react-logo.svg": "/staging-censio/static/media/react-logo.b779e4fd.svg",
+    "static/media/signin.svg": "/staging-censio/static/media/signin.58ee1d5a.svg",
+    "static/media/themesberg.svg": "/staging-censio/static/media/themesberg.105e5059.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54096f03.js",
+    "static/css/2.3dcccd17.chunk.css",
+    "static/js/2.f08658b2.chunk.js",
+    "static/css/main.ad5bd9b9.chunk.css",
+    "static/js/main.e0978fa0.chunk.js"
+  ]
+}
