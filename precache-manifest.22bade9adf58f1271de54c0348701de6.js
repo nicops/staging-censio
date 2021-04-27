@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6aae77abec70130effc52def7e77315",
+    "revision": "6c25c403ce2dd4d845557429577e97e0",
     "url": "/staging-censio/index.html"
   },
   {
-    "revision": "32cdab9da8f8f38745e9",
+    "revision": "5e58871b89eb8e7a22e5",
     "url": "/staging-censio/static/css/2.3dcccd17.chunk.css"
   },
   {
-    "revision": "4d23ce1c57a956927940",
+    "revision": "9c897d03b63c768e8905",
     "url": "/staging-censio/static/css/main.ad5bd9b9.chunk.css"
   },
   {
-    "revision": "32cdab9da8f8f38745e9",
-    "url": "/staging-censio/static/js/2.28517bbb.chunk.js"
+    "revision": "5e58871b89eb8e7a22e5",
+    "url": "/staging-censio/static/js/2.c6b07e89.chunk.js"
   },
   {
-    "revision": "5c84fcf47627ef219210e03cfa950dcb",
-    "url": "/staging-censio/static/js/2.28517bbb.chunk.js.LICENSE.txt"
+    "revision": "8dd5b03c6dd7eae3d56643bf3e9babbb",
+    "url": "/staging-censio/static/js/2.c6b07e89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d23ce1c57a956927940",
-    "url": "/staging-censio/static/js/main.2a8b62b0.chunk.js"
+    "revision": "9c897d03b63c768e8905",
+    "url": "/staging-censio/static/js/main.955f5f08.chunk.js"
   },
   {
     "revision": "3cfa180bdc54ae5a548b",
