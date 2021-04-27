@@ -1,7 +1,6 @@
 {
   "files": {
     "main.css": "/staging-censio/static/css/main.ad5bd9b9.chunk.css",
-<<<<<<< HEAD
     "main.js": "/staging-censio/static/js/main.955f5f08.chunk.js",
     "main.js.map": "/staging-censio/static/js/main.955f5f08.chunk.js.map",
     "runtime-main.js": "/staging-censio/static/js/runtime-main.eee4a61a.js",
@@ -15,21 +14,6 @@
     "static/css/2.3dcccd17.chunk.css.map": "/staging-censio/static/css/2.3dcccd17.chunk.css.map",
     "static/css/main.ad5bd9b9.chunk.css.map": "/staging-censio/static/css/main.ad5bd9b9.chunk.css.map",
     "static/js/2.c6b07e89.chunk.js.LICENSE.txt": "/staging-censio/static/js/2.c6b07e89.chunk.js.LICENSE.txt",
-=======
-    "main.js": "/staging-censio/static/js/main.a3b5affc.chunk.js",
-    "main.js.map": "/staging-censio/static/js/main.a3b5affc.chunk.js.map",
-    "runtime-main.js": "/staging-censio/static/js/runtime-main.eee4a61a.js",
-    "runtime-main.js.map": "/staging-censio/static/js/runtime-main.eee4a61a.js.map",
-    "static/css/2.3dcccd17.chunk.css": "/staging-censio/static/css/2.3dcccd17.chunk.css",
-    "static/js/2.a1d24992.chunk.js": "/staging-censio/static/js/2.a1d24992.chunk.js",
-    "static/js/2.a1d24992.chunk.js.map": "/staging-censio/static/js/2.a1d24992.chunk.js.map",
-    "index.html": "/staging-censio/index.html",
-    "precache-manifest.cd8bceb767d8d87fa2b86f7c396d5f92.js": "/staging-censio/precache-manifest.cd8bceb767d8d87fa2b86f7c396d5f92.js",
-    "service-worker.js": "/staging-censio/service-worker.js",
-    "static/css/2.3dcccd17.chunk.css.map": "/staging-censio/static/css/2.3dcccd17.chunk.css.map",
-    "static/css/main.ad5bd9b9.chunk.css.map": "/staging-censio/static/css/main.ad5bd9b9.chunk.css.map",
-    "static/js/2.a1d24992.chunk.js.LICENSE.txt": "/staging-censio/static/js/2.a1d24992.chunk.js.LICENSE.txt",
->>>>>>> d9e69d253c0fa4f0a7048ced8efe432bbe878968
     "static/media/bootstrap-5-logo.svg": "/staging-censio/static/media/bootstrap-5-logo.6aae84ab.svg",
     "static/media/all.css": "/staging-censio/static/media/fa-solid-900.9ae050d1.woff2",
     "static/media/profile-picture-1.jpg": "/staging-censio/static/media/profile-picture-1.4d26e151.jpg",
@@ -46,14 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.eee4a61a.js",
     "static/css/2.3dcccd17.chunk.css",
-<<<<<<< HEAD
     "static/js/2.c6b07e89.chunk.js",
     "static/css/main.ad5bd9b9.chunk.css",
     "static/js/main.955f5f08.chunk.js"
-=======
-    "static/js/2.a1d24992.chunk.js",
-    "static/css/main.ad5bd9b9.chunk.css",
-    "static/js/main.a3b5affc.chunk.js"
->>>>>>> d9e69d253c0fa4f0a7048ced8efe432bbe878968
   ]
 }
