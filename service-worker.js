@@ -14,7 +14,11 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
+<<<<<<< HEAD
   "/staging-censio/precache-manifest.22bade9adf58f1271de54c0348701de6.js"
+=======
+  "/staging-censio/precache-manifest.cd8bceb767d8d87fa2b86f7c396d5f92.js"
+>>>>>>> d9e69d253c0fa4f0a7048ced8efe432bbe878968
 );
 
 self.addEventListener('message', (event) => {
